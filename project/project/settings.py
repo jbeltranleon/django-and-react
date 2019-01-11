@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Local
     'leads',
+    'frontend',
 
     # Third party
     'rest_framework',
